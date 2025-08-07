@@ -1,4 +1,4 @@
-let day = new Date(2024,10,12);
+let day = new Date();
 
 let year = day.getFullYear();
 let month = day.getMonth();
